@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="new_folder">New Folder</string>
+    <string name="open_folder">Open Folder</string>
+    <string name="save_folder">Save Folder</string>
+</resources>
