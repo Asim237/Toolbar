@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        toolbar.setSubtitle("Sub    Toolbar");
+        toolbar.setSubtitle("SubToolbar");
     }
 
     @Override
